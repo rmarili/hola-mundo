@@ -1,2 +1,6 @@
 # hola-mundo
-repositorio prueba
+
+hola Marili
+
+Estoy aprendiendo a utilizar github.
+saludos
